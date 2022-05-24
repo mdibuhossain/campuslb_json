@@ -11,6 +11,14 @@
     ],
     "books": [
         {
+            "book_name": "Fundamentals of Mathematical Statistics",
+            "author": "S.C. Gupta, V.K. Kapoor",
+            "edition": "10",
+            "download_link": "https://drive.google.com/file/d/1l99bIgm8ez8RsQL2ef_dRwkDFDkoKtQ_/view?usp=sharing",
+            "categories": "cse",
+            "subcategories": "academic"
+        },
+        {
             "book_name": "Digital Logic and Computer Design",
             "author": "M. Morris Mano",
             "edition": "",
