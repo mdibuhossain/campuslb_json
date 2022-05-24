@@ -11,6 +11,14 @@
     ],
     "books": [
         {
+            "book_name": "Digital Logic and Computer Design",
+            "author": "M. Morris Mano",
+            "edition": "",
+            "download_link": "https://drive.google.com/file/d/1CB779xxkVE0vdlKkykNn8rObCqEsNJmj/view?usp=sharing",
+            "categories": "cse",
+            "subcategories": "academic"
+        },
+        {
             "book_name": "ANSI C",
             "author": "E. BALAGURUSAMY",
             "edition": "6",
